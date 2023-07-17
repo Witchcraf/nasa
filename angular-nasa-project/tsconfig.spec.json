@@ -8,7 +8,7 @@
     ]
   },
   "include": [
-    "src/**/*.spec.ts",
-    "src/**/*.d.ts"
+    "../angular-nasa-project/src/**/*.spec.ts",
+    "../angular-nasa-project/src/**/*.d.ts"
   ]
 }
